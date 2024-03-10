@@ -1,5 +1,5 @@
 # MultiTools_System
-Terminal system with 4 options (Person Register ; Calculator ; Notepad ; MP3 Player) and having your own login System!
+**Terminal** system with 4 options, and a basic login System!
 
 # PERSON REGISTER
 You can register any people in your space! (is not person's for login page) All of the register will save on a txt archive and you can review all of them any time.
