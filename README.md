@@ -21,15 +21,15 @@ On the logs fuction, you can choose the number you wants to calculate and choose
 Is equals a normal notepad, but is on the terminal. You can edit and remove the file, Create a new txt file too, and all of the data will save on another special folder with you name login on the beginning of the system.
 
 # MP3 Player
- > You can download any music of the Youtube (I use an API (Youte v3 API) to get the ID of the youtube video in base of what the users writes on the input.)
- > The user can create a playlist and edit how many times you want, putting and removing musics, and you can remove them to.
- > The user can view and edit all of the playlist's and choose a song to play (using pygame), inside of the playlist the user choices
- > Finally, you can choose a random song (using pygame) of all the playlist's you create on the system.
-Ps: All of the song saves on a special folder with the user's name in a .mp4 file and will converting in the same time to .mp3 using 2 API's. (Pytube and MoviePy)
+- You can download any music of the Youtube 
+- The user can create a playlist and edit how many times you want, putting and removing musics, and you can remove them to.
+- The user can view and edit all of the playlist's and choose a song to play, inside of the playlist the user choices
+- Finally, you can choose a random song of all the playlist's you create on the system.
+> Ps: All of the song saves on a special folder with the user's name in a .mp4 file and will converting in the same time to .mp3 using 2 API's.
 
 # Librarys and API's I used
-> Os library (used to create the folders and manipulate the txt files)
-> psutil library (used to kill the program when the users digit "1010" in the inputs, by a security code)
-> Pygame API (used to play the mp3 song on mp3 player)
-> Pytube and MoviePy (the first, used to download the youtube videos just audio file for a youtube link. The second, used to convert the pytube files (.mp4) to .mp3 files)
-> Youtube v3 API (used to got the ID videos on youtube according wiht user's input.
+1. Os library (used to create the folders and manipulate the txt files)
+2. psutil library (used to kill the program when the users digit "1010" in the inputs, by a security code)
+3. Pygame API (used to play the mp3 song on mp3 player)
+4. Pytube and MoviePy (the first, used to download the youtube videos just audio file for a youtube link. The second, used to convert the pytube files (.mp4) to .mp3 files)
+5. Youtube v3 API (used to got the ID videos on youtube according wiht user's input.
